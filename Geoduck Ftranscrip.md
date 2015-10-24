@@ -20,7 +20,6 @@ By Eugenio Carpizo Ituarte
 
 ![pretty picture](prettygraph.png)
 
-nnn
 
 
 
